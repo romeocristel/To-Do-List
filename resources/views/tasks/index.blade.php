@@ -35,7 +35,7 @@
     <div class="todo-wrap">
 
         <div class="todo-header">
-            <h1>Tasks Ko Daw</h1>
+            <h1>My Tasks</h1>
             <p>{{ now()->format('l, F j Y') }}</p>
         </div>
 

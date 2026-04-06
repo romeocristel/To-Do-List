@@ -84,7 +84,7 @@
     <nav class="navbar">
         <a href="{{ route('tasks.index') }}" class="navbar-brand">
             <div class="brand-icon">✓</div>
-            <span class="brand-name">WhatTheTask</span>
+            <span class="brand-name">To-Do-List</span>
         </a>
 
         <div class="navbar-right">
